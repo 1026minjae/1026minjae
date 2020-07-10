@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-안녕하세요! 저는 프로필에 나온대로 김민재라는 사람입니다. 그럼요 예 그렇습니다. 설마 이름도 틀리게 썼겠어요 :D
-Hello! I'm Minjae Kim. Wow. It's short than sentence over! Yes! No idea! :D
-음, 프로그래머를 희망합니다만 쉽지 않네요. 열심히 노력해보겠습니다. 근데 아이디어가 없네요?!
-Well, I want to become a 'programmer'... it's not that easy. I'm trying to do that. But, I have no idea?! 잠만 이게 맞나 모르게따
+###안녕하세요! 저는 프로필에 나온대로 김민재라는 사람입니다. 그럼요 예 그렇습니다. 설마 이름도 틀리게 썼겠어요 :D
+###Hello! I'm Minjae Kim. Wow. It's short than sentence over! Yes! No idea! :D
+###음, 프로그래머를 희망합니다만 쉽지 않네요. 열심히 노력해보겠습니다. 근데 아이디어가 없네요?!
+###Well, I want to become a 'programmer'... it's not that easy. I'm trying to do that. But, I have no idea?! 잠만 이게 맞나 모르게따
 
 솔직히 나름 건든게 많다고 생각했는데 그런 것도 아닌 것 같고 그냥 게으른 것 같아요 ㅎㅎ
 열심히 노력은 해보겠습니다. 잘하는건 다른 문제죠 :p
