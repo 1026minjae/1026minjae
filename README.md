@@ -27,7 +27,8 @@ Hello! This is my github page. Well... all of my programs aren't so deep. But I'
 * In fact, I know just grammer :|
 
 🤔Have experience(very very very newbie, almost forgot)
--Solidity
--Java
+- Solidity
+- Java
+
 
 💬I'm currently studying algorithms.
