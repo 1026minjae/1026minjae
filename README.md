@@ -14,13 +14,20 @@ Here are some ideas to get you started:
 -->
 Hello! This is my github page. Well... all of my programs aren't so deep. But I'm trying to develop myself. 
 
-⚡Language(except 0, all novice? level)
+⚡Language(except 0, all beginner~intermediate level - just soso)
 0. Korean(Native :D)
 1. C (studying)
 2. C++ (studying)
 3. C# (studying)
 4. Javascript (studying)
 5. Python3 (studying)
+6. PHP (beginner)
+7. SQL (well... this can be included?)
+8. HTML, CSS (soso, just making-little-website level)
+* In fact, I know just grammer :|
 
-I'm currently studying algorithms.
-💬 
+🤔Have experience(very very very newbie, almost forgot)
+-Solidity
+-Java
+
+💬I'm currently studying algorithms.
