@@ -28,4 +28,5 @@ Hello! This is my github page. Well... all of my programs aren't so deep yet. Bu
 
 
 💬I'm currently studying algorithms.
+
 💬I'm a big fan of Warframe, Diablo, Ace Attorney, The Legend of Zelda, Kirby, Slay the Spire, Sid Meier's Civilization.
