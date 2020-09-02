@@ -12,23 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello! This is my github page. Well... all of my programs aren't so deep. But I'm trying to develop myself. 
+Hello! This is my github page. Well... all of my programs aren't so deep yet. But I'm trying to develop myself! 
 
-⚡Language(except 0, all beginner~intermediate level - just soso)
+⚡Language
 0. Korean(Native :D)
-1. C (studying)
-2. C++ (studying)
-3. C# (studying)
-4. Javascript (studying)
-5. Python3 (studying)
-6. PHP (beginner)
-7. SQL (well... this can be included?)
-8. HTML, CSS (soso, just making-little-website level)
-* In fact, I know just grammer :|
+1. English(2nd language. but not so high level)
+2. C / C++
+3. Python3
+4. JavaScript
+* These are what I ususally use.
 
-🤔Have experience(very very very newbie, almost forgot)
-- Solidity
-- Java
+🤔Have experience(just experience - more than a line of code.)
+- C#, Java, SQL, PHP, HTML5&CSS3, Solidity
 
 
 💬I'm currently studying algorithms.
+💬I'm a big fan of Warframe, Diablo, Ace Attorney, The Legend of Zelda, Kirby, Slay the Spire, Sid Meier's Civilization.
