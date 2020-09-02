@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 Hello! This is my github page. Well... all of my programs aren't so deep yet. But I'm trying to develop myself! 
 
 ⚡Language
+
 0. Korean(Native :D)
 1. English(2nd language. but not so high level)
 2. C / C++
