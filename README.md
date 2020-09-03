@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 안녕하세요. 제 깃헙 페이지에 오신 것을 환영합니다. 제가 만든 프로그램은 수준 높은 프로그램은 아닙니다만... 정진하고 있습니다.
+
 😄 Hello! This is my github page. Well... all of my programs aren't so deep yet. But I'm trying to develop myself! 
 
 
