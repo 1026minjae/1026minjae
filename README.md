@@ -12,9 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello! This is my github page. Well... all of my programs aren't so deep yet. But I'm trying to develop myself! 
+🌱 안녕하세요. 제 깃헙 페이지에 오신 것을 환영합니다. 제가 만든 프로그램은 수준 높은 프로그램은 아닙니다만... 정진하고 있습니다.
+😄 Hello! This is my github page. Well... all of my programs aren't so deep yet. But I'm trying to develop myself! 
 
-⚡Language
+
+⚡ Language
 
 0. Korean(Native :D)
 1. English(2nd language. but not so high level)
@@ -23,7 +25,7 @@ Hello! This is my github page. Well... all of my programs aren't so deep yet. Bu
 4. JavaScript
 * These are what I ususally use.
 
-🤔Have experience(just experience - more than a line of code.)
+🤔 Have experience(just experience - more than a line of code.)
 - C#, Java, SQL, PHP, HTML5&CSS3, Solidity
 
 
