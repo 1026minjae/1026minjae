@@ -14,23 +14,26 @@ Here are some ideas to get you started:
 -->
 🌱 Greeting  
 
->Hello. This is my github page. Well... I cannot make a great program yet. But I'm trying to develop myself.  
->But... sadly I have special idea... :(  
+>Hello. This is my github page.   
 
-🤔 Have experience(just experience - more than a line of code.)
+💬 I am an undergraduate student at the Korean Advanced Institute of Science and Technology (KAIST).   
+💬 I am majoring in the School of Computing.   
+💬 I'm currently studying algorithms and data structure.     
+
+🤔 Have experience
 
 >0.  Korean       (Native)   
->1.  English      (2nd language. but not so high level)   
->2.  C & C++      (practicing code test with this language)   
->3.  Python3      (a simple game with pygame library)   
->4.  JavaScript   (several simple webpages)   
->5.  C#           (several programs with WinForm, WPF)   
->6.  Java         (Android App)   
->7.  SQL          (used to CRUD data in DB)   
->8.  PHP          (used to access to DB in web server)   
->9.  HTML5&CSS3   (used to design my practice related to web)   
->10. Solidity     (almost forgot. tried to make a web service connected to Etherium)   
->11. Security     (studied basic concepts of Reversing, Pwnable, Web hacking, Crytography in Hacking Club KAIST/GoN for 1 year)   
-
-
-💬I'm currently studying algorithms and data structure.
+>1.  English      (TOEIC 900+)   
+>2.  C            (some low-level features)   
+>3.  C++          (mainly write code test answer with this PL)   
+>3.  Python3      (write code test answer with this PL)   
+>4.  JavaScript   (several webpages)   
+>5.  C#           (several GUI programs with WinForm, WPF)   
+>6.  Java         (one Android application)   
+>7.  SQL          (use DB)   
+>8.  PHP          (backend)   
+>9.  Scala        (used in class)   
+>10. Haskell      (used in class)   
+>11. HTML5&CSS3   (design website)   
+>12. Solidity     (almost forgot. tried to make a web service connected to Etherium)   
+>13. Security     (studied basic concepts of Reversing, Pwnable, Web hacking, Crytography in Hacking Club KAIST/GoN for 1 year)   
