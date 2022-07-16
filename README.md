@@ -18,22 +18,8 @@ Here are some ideas to get you started:
 
 💬 I am an undergraduate student at the Korean Advanced Institute of Science and Technology (KAIST).   
 💬 I am majoring in the School of Computing.   
-💬 I'm currently studying algorithms and data structure.     
+💬 I'm native Korean and my second language is English (TOEIC 900+)   
+💬 I have studied basic concepts of cyber security in the hacking club KAIST/GoN for 1 year.   
+💬 I have worked as programmer in start-up Lmntic Biotech Co., Ltd. (2022.01 ~ )
 
-🤔 Have experience
-
->0.  Korean       (Native)   
->1.  English      (TOEIC 900+)   
->2.  C            (some low-level features)   
->3.  C++          (mainly write code test answer with this PL)   
->3.  Python3      (write code test answer with this PL)   
->4.  JavaScript   (several webpages)   
->5.  C#           (several GUI programs with WinForm, WPF)   
->6.  Java         (one Android application)   
->7.  SQL          (use DB)   
->8.  PHP          (backend)   
->9.  Scala        (used in class)   
->10. Haskell      (used in class)   
->11. HTML5&CSS3   (design website)   
->12. Solidity     (almost forgot. tried to make a web service connected to Etherium)   
->13. Security     (studied basic concepts of Reversing, Pwnable, Web hacking, Crytography in Hacking Club KAIST/GoN for 1 year)   
+💬 I'm currently studying PintOS... Too hard.   
