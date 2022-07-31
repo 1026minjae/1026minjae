@@ -21,5 +21,3 @@ Here are some ideas to get you started:
 💬 I'm native Korean and my second language is English (TOEIC 900+)   
 💬 I have studied basic concepts of cyber security in the hacking club KAIST/GoN for 1 year.   
 💬 I have worked as programmer in start-up Lmntic Biotech Co., Ltd. (2022.01 ~ )
-
-💬 I'm currently studying PintOS... Too hard.   
