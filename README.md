@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 
 💬 I am an undergraduate student at the Korean Advanced Institute of Science and Technology (KAIST).   
 💬 I am majoring in the School of Computing.   
-💬 I'm native Korean and my second language is English (TOEIC 900+)   
-💬 I have studied basic concepts of cyber security in the hacking club KAIST/GoN for 1 year.   
+💬 I'm native Korean and my second language is English.      
 💬 I have worked as programmer in start-up Lmntic Biotech Co., Ltd. (2022.01 ~ )
