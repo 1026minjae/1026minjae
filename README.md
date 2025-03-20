@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 💬 I'm native Korean and my second language is English.      
 💬 I have worked as co-founder in start-up Lmntic Biotech Co., Ltd. (2022)
 
-My CV (Work in Progress): [Link](https://polydactyl-spice-70c.notion.site/Minjae-Kim-1b40d7e5d7048081bff6dbb59f0ce83c)
+My CV (in Korean): [Link](./CV_ko.pdf)
