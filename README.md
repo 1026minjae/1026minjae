@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 💬 I have worked as co-founder in start-up Lmntic Biotech Co., Ltd. (2022.01-2022.09)  
 💬 I have worked as Server Developer Intern in TossBank (2025.09-2026.02)  
 
-My CV (in Korean): [Link](./Minjae_Kim_CV_Kor.pdf)   
+My CV (in Korean): [Link](https://github.com/1026minjae/1026minjae/blob/master/Minjae_Kim_CV_Kor_260306.pdf)   
 My portfolio (in Korean): [Link](https://polydactyl-spice-70c.notion.site/Minjae-Kim-1d90d7e5d704806faa47e13bc856d3b6)   
