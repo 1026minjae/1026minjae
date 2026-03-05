@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 💬 I am an undergraduate student at the Korean Advanced Institute of Science and Technology (KAIST).   
 💬 I am majoring in the School of Computing.   
 💬 I'm native Korean and my second language is English.      
-💬 I have worked as co-founder in start-up Lmntic Biotech Co., Ltd. (2022.01-2022.09)
-💬 I have worked as Server Developer Intern in TossBank (2025.09-2026.02)
+💬 I have worked as co-founder in start-up Lmntic Biotech Co., Ltd. (2022.01-2022.09)  
+💬 I have worked as Server Developer Intern in TossBank (2025.09-2026.02)  
 
 My CV (in Korean): [Link](./Minjae_Kim_CV_Kor.pdf)   
 My portfolio (in Korean): [Link](https://polydactyl-spice-70c.notion.site/Minjae-Kim-1d90d7e5d704806faa47e13bc856d3b6)   
